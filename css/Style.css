@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Playfair+Display&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Inconsolata:wght@600&display=swap');
+.Menu{
+    flex: content;
+}
+.Like{
+    width: 10px;
+    height: 10px;
+    flex: content;
+}
+.dislike{
+    width: 10px;
+    height: 10px;
+    flex: content;  
+}
+.Imagem1{
+    flex: content;
+    width: 100px;
+    height: 100px;
+}
+.Texto{
+    font-family: 'Playfair Display', serif;
+    font-size: 12px;
+    flex: content;
+}
+label{
+    font-size: 10px;
+    font-family: 'Playfair Display', serif;
+}
+h2{
+    font-size: 10px;
+    align-items: flex-end;
+}
+.TDN{
+    font-family: 'Playfair Display', serif;
+    font-size: 15px;
+}
+.Cabecalho{
+    font-family: 'Inconsolata', monospace;
+    color: #000;
+}
+a{
+    text-decoration: none;
+    color: #000;
+}
+.Sub{
+    flex: content;
+    align-content: flex-start;
+}
+.Titulo{
+    font-size: 20px;
+}
+.IMGN{
+    width: 150px;
+    height: 150px;
+    flex: content;
+}
+NoticiaTXT{
+    text-align:justify;
+    flex: content;
+}
+.entrar{
+    font-size: 20px;
+}
+.Login{
+    align-self:flex-end;
+    flex: content;
+}
